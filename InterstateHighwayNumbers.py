@@ -8,7 +8,6 @@
 
 highway_number = int(input())
 
-''' Type your code here. '''
 if(highway_number == 0):
     print("0 is not a valid interstate highway number.")
 if(highway_number > 0 and highway_number < 100):
